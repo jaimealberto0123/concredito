@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'ArimaMadurai';
+	src: url('../css/fonts/arima/fonts/ttf/Madurai/ArimaMadurai-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'ArimaMadurai-bold';
+	src: url('ArimaMadurai-Bold.ttf') format('truetype');
+}
+
+@import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
+
+.arimamadurai{
+	font-family: ArimaMadurai;
+}
+
+h1{
+	font-family: ArimaMadurai;
+}
+
+.background_modal{
+	background-image: url(../img/bg_modal.png);
+}
+
+body{
+	padding-left: 20px;
+	padding-right: 20px;
+}
